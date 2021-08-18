@@ -1,0 +1,27 @@
+Now using NN mode....
+
+Testing line jump
+Now calling copycat
+@char PoseTest
+changing pose
+@char PoseTest.a
+@char PoseTest.b
+@char PoseTest.c
+@char PoseTest.d
+@char PoseTest.e
+
+Calling real A character
+@char A
+A: this is my own dialog, cant change pose just yet
+
+calling BG
+@back b2
+testing BG change
+@back b1
+@back b3.RadialBlur
+@back b2.DropFade
+@back b1.Pixelate
+@back b3.Crumble
+@back b2.LineReveal
+@turnOnAC action:intTest
+@stop
